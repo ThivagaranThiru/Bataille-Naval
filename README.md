@@ -1,7 +1,9 @@
-# Bataille-Naval
+# BattleShip
  * miniPROJET 2016/2017	UPEC				THIRUCHELVAM Thivagaran
  * Cours Programmation Fonctionelle
- 
+  
+Le but de ce projet est de faire un jeu : un clone de Bataille Navale. L'objectif de BattleShip est d'essayer de couler tous les autres joueurs avant qu'ils ne coulent tous vos navires. Chaque joueur cache des navires sur une grille contenant des coordonnées verticales et horizontales. Les joueurs choisissent à tour de rôle les coordonnées des lignes et des colonnes de la grille de l'autre joueur pour tenter d'identifier une case qui contient un navire.  
+
 Pour lancer faire make puis "./fleet" 
 
 SUR LA PREMIERE GRILLE : 
