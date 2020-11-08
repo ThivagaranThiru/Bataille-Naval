@@ -19,3 +19,5 @@ Ne prenez pas en compte les messages affichés sur la fênetre.
 SUR LA DEUXIEME GRILLE : 
 
 Il suffit juste cliquer sur les case pour afficher les navires placer sur la première grille. 
+
+Technologies utilisées : Ocaml, Sublime Text.
